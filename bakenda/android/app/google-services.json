@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "702938202731",
+    "firebase_url": "https://bakky-658b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bakky-658b0",
+    "storage_bucket": "bakky-658b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702938202731:android:0365ec6da18e59dd3aa72e",
+        "android_client_info": {
+          "package_name": "com.example.bakenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaPWmC8GtuCATCFcy2JQKFjHvAxAnAUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702938202731:android:89b4018c805e65023aa72e",
+        "android_client_info": {
+          "package_name": "com.example.bakky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaPWmC8GtuCATCFcy2JQKFjHvAxAnAUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
